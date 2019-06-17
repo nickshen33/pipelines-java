@@ -1,4 +1,4 @@
-
+[![Build Status](https://nickshen33.visualstudio.com/ARMDemo0617/_apis/build/status/nickshen33.pipelines-java?branchName=master)](https://nickshen33.visualstudio.com/ARMDemo0617/_build/latest?definitionId=11&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
